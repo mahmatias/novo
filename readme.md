@@ -1,5 +1,5 @@
 # Estrogonofe de Frango
-## Ingredientes
- - Frango
+# Ingredientes
+## Frango
  - Creme de Leite
  - Sal
